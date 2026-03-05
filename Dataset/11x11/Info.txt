@@ -1,0 +1,6 @@
+Batch Size : 16 
+Picture Size : 11x11 
+Data Size : torch.Size([127]) 
+Shuffle : True 
+Remove Contracdicting : True 
+Adpative : True

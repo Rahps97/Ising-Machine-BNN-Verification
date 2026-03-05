@@ -1,0 +1,13 @@
+Minimum Energy : -4304 
+Total Variables : 183 
+Minimum elemenet of the QUBO : -767 
+Maximum elemenet of the QUBO : 1024 
+Total Pixels to perturb : 16 
+Pixels perturbed : [1, 48, 47, 46, 43, 42, 41, 35, 28, 21, 14, 7, 4, 5, 6, 2] 
+Input to perturb : tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 1., 0., 0., 0., 0., 0., 0.,
+        1., 0., 0., 0., 0., 0., 1., 0., 0., 0., 0., 0., 0., 1., 0., 0., 0., 0.,
+        0., 1., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0.]) 
+Label to perturb : 1.0 
+Epsilon : 16 
+Perturbation Bound Constriant included : True 

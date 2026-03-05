@@ -1,0 +1,5 @@
+Net(
+  (fc1): BinaryLinear(in_features=63, out_features=7, bias=False)
+  (fc2): BinaryLinear(in_features=7, out_features=1, bias=False)
+)
+Test set: Avg. loss: 0.0090, Accuracy: 137/864 (16%)

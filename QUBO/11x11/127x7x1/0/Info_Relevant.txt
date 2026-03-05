@@ -1,0 +1,4 @@
+Minimum Energy : -15944 
+Total Variables : 319 
+Minimum elemenet of the QUBO : -2689 
+Maximum elemenet of the QUBO : 4096 
